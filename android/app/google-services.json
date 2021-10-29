@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244915209373",
+    "project_id": "fleeks-d44a1",
+    "storage_bucket": "fleeks-d44a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244915209373:android:e991d21b3626e476d6c074",
+        "android_client_info": {
+          "package_name": "com.rnnotificatons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244915209373-3d5b5blrkhvbmoi3k739ra4flg8t7hr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXRPkNyXSDUtNsQw10sR_DqaxyT7YX5TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244915209373-3d5b5blrkhvbmoi3k739ra4flg8t7hr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
